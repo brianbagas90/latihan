@@ -1,13 +1,13 @@
+<!DOCTYPE html>
 <html>
-	<head>
-	<title>My first php website </title>
-	</head>
 	<body>
-	<center>
+	<br>
+	<br>
 	<?php
-		echo "<p>Hello World!</p>";
+		echo "...";
 		?>
-		</center>
+		<br>
+		<center><h1>HELLO WORD<h1></center>
 		<p>Brian Bagas Purwandika</p>
 		<p>16.01.53.0051</p>
 		</body>
